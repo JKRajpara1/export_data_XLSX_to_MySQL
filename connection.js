@@ -4,8 +4,8 @@ async function connection() {
     const connection = await mysql.createConnection({
         host: 'localhost',
         user: 'root',
-        port: 3307,
-        password: '',
+        port: 3306,
+        password: 'Enter Your Password',
         database: 'excel',
       });
     return connection;
