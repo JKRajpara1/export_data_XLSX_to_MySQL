@@ -1,5 +1,3 @@
-# export_data_XLSX_to_MySQL
-
 # Excel to Database Import Project
 
 This project demonstrates how to read data from an Excel file and insert it into a MySQL database using Node.js.
