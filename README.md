@@ -34,5 +34,5 @@ queries.js: Contains functions to create the table and insert data.
 data.xlsx: Sample Excel file containing company data.
 
 ## Dependencies
-xlsx: Library for reading and writing Excel files.
-mysql2: MySQL database driver for Node.js.
+xlsx: Library for reading and writing Excel files
+mysql2: MySQL database driver for Node.js
