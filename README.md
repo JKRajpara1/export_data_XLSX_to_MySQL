@@ -9,7 +9,9 @@ It's a simple example that showcases the use of the `xlsx` library for Excel fil
 
 1. Clone this repository
 2. Install the required dependencies
+
    $ npm install
+
 
 ## Configuration
 
@@ -21,6 +23,7 @@ It's a simple example that showcases the use of the `xlsx` library for Excel fil
 ## Usage
 
 1. Run the application
+
    $ node app.js
 
 ## Project Structure
